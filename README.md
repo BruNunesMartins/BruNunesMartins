@@ -1,4 +1,4 @@
-### Oiii, eu sou a Bruna Martins 👩‍💻
+### Oiii eu sou a Bruna Martins 👩‍💻
 
 Sou uma programadora Font End, atualmente estou aprendendo e criando projetos com:
 <br>
